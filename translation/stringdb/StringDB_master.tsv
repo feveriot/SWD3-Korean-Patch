@@ -1,0 +1,809 @@
+key	zh_Hant	en	ref_otherKO	ko	note
+1	軒轅劍參 雲和山的彼端	Xuan-Yuan Sword : Mists Beyond the Mountains	헌원검참운화산1 헌원검참운화산 저편	헌원검 3 구름과 산의 저편	
+2	軒轅劍參	Xuan-Yuan Sword	헌원검삼	헌원검 3	
+3	煉妖壺	Spirit Fusion Pot	요괴를 단련하는 주전자	연요호	
+4	神魔異事錄	Creature Catalogue		신마이사록	
+5	SWD3	SWD3			
+100	無	none	없음	없음	
+104	A	A			
+105	B	B			
+106	C	C			
+107	D	D			
+108	E	E			
+109	F	F			
+110	G	G			
+111	H	H			
+112	I	I			
+113	J	J			
+114	K	K			
+115	L	L			
+116	M	M			
+117	N	N			
+118	O	O			
+119	P	P			
+120	Q	Q			
+121	R	R			
+122	S	S			
+123	T	T			
+124	U	U			
+125	V	V			
+126	W	W			
+127	X	X			
+128	Y	Y			
+129	Z	Z			
+130	1	1			
+131	2	2			
+132	3	3			
+133	4	4			
+134	5	5			
+135	6	6			
+136	7	7			
+137	8	8			
+138	9	9			
+139	0	0			
+140	RETURN	RETURN			
+141	ESC	ESC			
+142	BACKSPACE	BACKSPACE			
+143	TAB	TAB			
+144	SPACE	SPACE			
+145	-	-			
+146	=	=			
+147	[	[			
+148	]	]			
+149	\	\			
+150	NONUSHASH	NONUSHASH			
+151	;	;			
+152	'	'			
+153	`	`			
+154	,	,			
+155	.	.			
+156	/	/			
+157	CAPSLOCK	CAPSLOCK			
+158	F1	F1			
+159	F2	F2			
+160	F3	F3			
+161	F4	F4			
+162	F5	F5			
+163	F6	F6			
+164	F7	F7			
+165	F8	F8			
+166	F9	F9			
+167	F10	F10			
+168	F11	F11			
+169	F12	F12			
+170	PRINTSCREEN	PRINTSCREEN			
+171	SCROLLLOCK	SCROLLLOCK			
+172	PAUSE	PAUSE			
+173	INSERT	INSERT			
+174	HOME	HOME			
+175	PAGEUP	PAGEUP			
+176	DELETE	DELETE			
+177	END	END			
+178	PAGEDOWN	PAGEDOWN			
+179	RIGHT	RIGHT			
+180	LEFT	LEFT			
+181	DOWN	DOWN			
+182	UP	UP			
+183	NUMLOCK	NUMLOCK			
+184	KP DIVIDE	KP DIVIDE			
+185	KP *	KP *			
+186	KP -	KP -			
+187	KP +	KP +			
+188	KP ENTER	KP ENTER			
+189	KP 1	KP 1			
+190	KP 2	KP 2			
+191	KP 3	KP 3			
+192	KP 4	KP 4			
+193	KP 5	KP 5			
+194	KP 6	KP 6			
+195	KP 7	KP 7			
+196	KP 8	KP 8			
+197	KP 9	KP 9			
+198	KP 0	KP 0			
+199	KP .	KP .			
+200	NONUSBACKSLASH	NONUSBACKSLASH			
+201	APPLICATION	APPLICATION			
+202	POWER	POWER			
+203	KP EQUALS	KP EQUALS			
+204	F13	F13			
+205	F14	F14			
+206	F15	F15			
+207	F16	F16			
+208	F17	F17			
+209	F18	F18			
+210	F19	F19			
+211	F20	F20			
+212	F21	F21			
+213	F22	F22			
+214	F23	F23			
+215	F24	F24			
+216	EXECUTE	EXECUTE			
+217	HELP	HELP			
+218	MENU	MENU			
+219	SELECT	SELECT			
+220	STOP	STOP			
+221	AGAIN	AGAIN			
+222	UNDO	UNDO			
+223	CUT	CUT			
+224	COPY	COPY			
+225	PASTE	PASTE			
+226	FIND	FIND			
+227	MUTE	MUTE			
+228	VOL+	VOL +			
+229	VOL-	VOL-			
+233	KP ,	KP ,			
+234	KP_EQUALSAS400	KP_EQUALSAS400			
+235	INTERNATIONAL1	INTERNATIONAL1			
+236	INTERNATIONAL2	INTERNATIONAL2			
+237	Yen	Yen			
+238	INTERNATIONAL4	INTERNATIONAL4			
+239	INTERNATIONAL5	INTERNATIONAL5			
+240	INTERNATIONAL6	INTERNATIONAL6			
+241	INTERNATIONAL7	INTERNATIONAL7			
+242	INTERNATIONAL8	INTERNATIONAL8			
+243	INTERNATIONAL9	INTERNATIONAL9			
+244	Hangul/English	Hangul /English			
+245	漢字變換	Characters transformation			
+246	Katakana	Katakana			
+247	Hiragana	Hiragana			
+248	半/全	Double - byte/single - byte			
+249	reserved	reserved			
+250	reserved	reserved			
+251	reserved	reserved			
+252	reserved	reserved			
+253	ALTERASE	ALTERASE			
+254	SYSREQ	SYSREQ			
+255	CANCEL	CANCEL			
+256	CLEAR	CLEAR			
+257	PRIOR	PRIOR			
+258	RETURN2	RETURN2			
+259	SEPARATOR	SEPARATOR			
+260	OUT	OUT			
+261	OPER	OPER			
+262	CLEARAGAIN	CLEARAGAIN			
+263	CRSEL	CRSEL			
+264	EXSEL	EXSEL			
+276	KP 00	KP 00			
+277	KP 000	KP 000			
+278	THOUSANDSSEPARATOR	THOUSANDSSEPARATOR			
+279	 DECIMALSEPARATOR	 DECIMALSEPARATOR			
+280	CURRENCYUNIT	CURRENCYUNIT			
+281	CURRENCYSUBUNIT	CURRENCYSUBUNIT			
+282	KP LEFTPAREN	KP LEFTPAREN			
+283	KP RIGHTPAREN	KP RIGHTPAREN			
+284	KP LEFTBRACE	KP LEFTBRACE			
+285	KP RIGHTBRACE	KP RIGHTBRACE			
+286	KP TAB	KP TAB			
+287	KP BACKSPACE	KP BACKSPACE			
+288	KP A	KP A			
+289	KP B	KP B			
+290	KP C	KP C			
+291	KP D	KP D			
+292	KP E	KP E			
+293	KP F	KP F			
+294	KP XOR	KP XOR			
+295	KP POWER	KP POWER			
+296	KP %	KP %			
+297	KP LESS	KP LESS			
+298	KP GREATER	KP GREATER			
+299	AMPERSAND	AMPERSAND			
+300	KP_DBLAMPERSAND	KP_DBLAMPERSAND			
+301	KP_VERTICALBAR	KP_VERTICALBAR			
+302	KP_DBLVERTICALBAR	KP_DBLVERTICALBAR			
+303	KP_COLON	KP_COLON			
+304	KP_HASH	KP_HASH			
+305	KP_SPACE	KP_SPACE			
+306	KP_AT	KP_AT			
+307	KP_EXCLAM	KP_EXCLAM			
+308	KP_MEMSTORE	KP_MEMSTORE			
+309	KP_MEMRECALL	KP_MEMRECALL			
+310	KP_MEMCLEAR	KP_MEMCLEAR			
+311	KP_MEMADD	KP_MEMADD			
+312	KP_MEMSUBTRACT	KP_MEMSUBTRACT			
+313	KP_MEMMULTIPLY	KP_MEMMULTIPLY			
+314	KP_MEMDIVIDE	KP_MEMDIVIDE			
+315	KP_PLUSMINUS	KP_PLUSMINUS			
+316	KP_CLEAR	KP_CLEAR			
+317	KP_CLEARENTRY	KP_CLEARENTRY			
+318	KP_BINARY	KP_BINARY			
+319	KP_OCTAL	KP_OCTAL			
+320	KP_DECIMAL	KP_DECIMAL			
+321	KP_HEXADECIMAL	KP_HEXADECIMAL			
+324	L CTRL	L CTRL			
+325	L SHIFT	L SHIFT			
+326	L ALT	L ALT			
+327	L GUI	L GUI			
+328	R CTRL	R CTRL			
+329	R SHIFT	R SHIFT			
+330	R ALT	R ALT			
+331	R GUI	R GUI			
+357	MODE	MODE			
+358	AUDIONEXT	AUDIONEXT			
+359	AUDIOPREV	AUDIOPREV			
+360	AUDIOSTOP	AUDIOSTOP			
+361	AUDIOPLAY	AUDIOPLAY			
+362	AUDIOMUTE	AUDIOMUTE			
+363	MEDIASELECT	MEDIASELECT			
+364	WWW	WWW			
+365	MAIL	MAIL			
+366	CALCULATOR	CALCULATOR			
+367	COMPUTER	COMPUTER			
+368	AC_SEARCH	AC_SEARCH			
+369	AC_HOME	AC_HOME			
+370	AC_BACK	AC_BACK			
+371	AC_FORWARD	AC_FORWARD			
+372	AC_STOP	AC_STOP			
+373	AC_REFRESH	AC_REFRESH			
+374	AC_BOOKMARKS	AC_BOOKMARKS			
+375	BRIGHTNESSDOWN	BRIGHTNESSDOWN			
+376	BRIGHTNESSUP	BRIGHTNESSUP			
+377	DISPLAYSWITCH	DISPLAYSWITCH			
+378	KBDILLUMTOGGLE	KBDILLUMTOGGLE			
+379	KBDILLUMDOWN	KBDILLUMDOWN			
+380	KBDILLUMUP	KBDILLUMUP			
+381	EJECT	EJECT			
+382	SLEEP	SLEEP			
+383	APP1	APP1			
+384	APP2	APP2			
+397	左鍵	left		왼쪽 버튼	
+398	右鍵	right		오른쪽 버튼	
+399	中鍵	middle		가운데 버튼	
+400	Weapon	Weapon		무기	
+401	Head	Head		머리	
+402	Chest	Chest		몸통	
+403	Hand	Hand		손	
+404	Foot	Foot		발	
+405	Acce1	Acce1		장신구1	
+406	Acce2	Acce2		장신구2	
+407	Guardian1	Guardian1		호가1	
+408	Guardian2	Guardian2		호가2	
+409	Sutra1	Sutra1		부적1	
+410	Sutra2	Sutra2		부적2	
+411	更改虛擬搖桿的位置與大小	Change position and size of virtual joystick		가상 조이스틱의 위치와 크기 변경	
+412	還原設定	Restore settings		설정 되돌리기	
+1001	自動存檔	Autosave	자동 보관	자동 저장	
+1002	自動	Auto	자동	자동	
+1003	此場戰鬥經驗值加百分之%d	Experience points increase by %d in this battle	이 전투의 경험치에 %d을 더해라.	이번 전투 경험치 %d퍼센트 증가	
+1004	此場戰鬥金錢變%d倍	Gold increase by %d times in this battle	이 전투의 돈은 %d배로 변한다	이번 전투 금전 %d배	
+1005	龍颿法寶加%d點額外經驗	Dragon Gallop Magic Weapon adds extra %d experience points	드래곤 颿 +% d포인트 추가 경험	용범 법보 추가 경험치 %d	
+1006	攻擊	Attack	공격	공격	
+1007	輔助	Assist	보조	보조	
+1008	恢復	Restore	회복	회복	
+1009	活物	Creature	생물	생물	
+1010	連擊	Combo	스트레이트	연격	
+1011	陰陽	Yin Yang	음양	음양	
+1012	偷竊	Theft	도둑질	훔치기	
+1013	群攻	AOE	군공	광역 공격	
+1014	控制	Control	제어	제어	
+1015	命中	Hit	적중	명중	
+1016	投擲	Sling	투척	투척	
+1017	隱形	Stealth	투명	은신	
+1018	斷玉	Jadesevering	단옥	단옥	
+1019	煉符	Figuring	연산자	연부	
+1020	鼠槌	Rat Mallet	쥐 방망이	쥐망치	
+1021	護罩	Shield	보호대	보호막	
+1022	分解	Discompose	분해	분해	
+1023	氣合	Chi Combining	기합	기합	
+1024	冥想	Meditation	명상	명상	
+1025	運功	Chi Maneuver	운공	운공	
+1026	龍颿	Dragon Gallop	드래곤颿	용범	
+1027	改變	Change	변경	변화	
+1028	蓄勁	Charge	네이키드	축경	
+1029	逆攻	Bounce	역공	역공	
+1030	融合	Merge	융합	융합	
+1031	奇術	Skill	매직	기술	
+1032	物品	Item	물품	아이템	
+1033	絕招	Ultimate	절기	필살기	
+1034	防禦	Defense	방어	방어	
+1035	戰鬥場景資料錯誤!!	Battle scene data error!!	전투 장면 자료 오류! !	전투 장면 데이터 오류!!	
+1036	敵方搶先攻擊!!	The enemy is the first to attack!!	적 선제공격! !	적이 먼저 공격한다!!	
+1037	我方搶先攻擊!!	Our party is the first to attack!!	아군 선제공격! !	아군이 먼저 공격한다!!	
+1038	龍颿法寶升級	Dragon Gallop Magic Weapon upgrade	드래곤 颿 마법의 무기 업그레이드	용범 법보 성장	
+1039	撤退失敗!!	Fleeing failed!!	후퇴 실패! !	후퇴 실패!!	
+1040	撤退成功!!	Fleeing successful!!	철수 성공! !	후퇴 성공!!	
+1041	收化成功	Capture successful!!	수신 성공	수화 성공	
+1042	收化失敗	Capture failed!!	수집 실패	수화 실패	
+1043	成功偷到[%s]!!	Successfully stole [%s]!!	[%s] 훔치기 성공! !	[%s] 훔치기 성공!!	
+1044	敵人身上無任何物品!!	There is no item on the enemy!!	적에게 아무것도 없다! !	적에게 아무 물건도 없다!!	
+1045	偷竊失敗!!	Theft failed!!	도둑질 실패! !	훔치기 실패!!	
+1046	控制成功!!	Control successful!!	제어 성공! !	제어 성공!!	
+1047	控制失敗!!	Control failed!!	제어 실패! !	제어 실패!!	
+1048	敵人成功偷走了[%s]	Enemy successfully stole [%s]!!	적이 성공적으로 훔쳤습니다[%s]	적이 [%s]을(를) 훔쳐 갔다	
+1049	偷竊失敗	Theft failed!!	도둑질 실패	훔치기 실패	
+1050	自動攻擊	Auto attack	자동 공격	자동 공격	
+1051	取回被偷的物品!!	Retrieved the stolen items!!	도둑맞은 물건을 되찾아라! !	도둑맞은 물건을 되찾았다!!	
+1052	強攻擊	Strong attack	강습	강공격	
+1053	正常靈契	Normal Tame	정상 영계	일반 영계약	
+1054	絕對靈契	Absolute Tame	절대 영계	절대 영계약	
+1055	生命:%-3d 鎖:%-1d 令:%-1d lv:%-2d	Life: %-3d Lock: %-1d Command: %-1d lv: %-2d	생명:%-3d 잠금:%-1d 명령:%-1d lv:%-2d	생명:%-3d 잠금:%-1d 명령:%-1d lv:%-2d	
+1056	鎖定:%d 命令:%-3d	Lock: %d Command: %-3d	잠금:%d 명령:%-3d	잠금:%d 명령:%-3d	
+1057	攻擊順序:	Attack order:	공격순서:	공격 순서:	
+1058	我方等待順序:	Party waiting order:	당사는 순서를 기다리고 있습니다.	아군 대기 순서:	
+1059	排列順序:	Arrangement order:	배열 순서:	배열 순서:	
+1060	目前角色:%d SEL:%d	Current character: %d SEL:%d	현재 역할:%d SEL:%d	현재 캐릭터:%d SEL:%d	
+1061	無敵:%d UM:%d 戰鬥:%d	No enemy: %d UM: %d Battle: %d	무적:%d UM:%d 전투:%d	무적:%d UM:%d 전투:%d	
+1062	編號:%d	Code: %d	번호:%d	번호:%d	
+1063	經驗:%d	Experience: %d	경험:%d	경험:%d	
+1064	下一招經驗:%d	Next skill experience: %d	다음 방법:%d	다음 기술 경험:%d	
+1065	下一招號碼:%d	Next skill number: %d	다음 번호:%d	다음 기술 번호:%d	
+1066	無法撤退!!	Unable to Flee	후퇴할 수 없다! !	후퇴할 수 없다!!	
+1067	第二層	Second level	이층	제2층	
+1068	第二層魔法act號碼錯誤!!	Second level magicactWrong number!!	두 번째 레이어 마법 act 번호 오류! !	제2층 마법 act 번호 오류!!	
+1069	法寶經驗不足,無法繼續蓄勁!!	Insufficient magic weapon experience, unable to continue charging!!	마법의 보물은 경험이 부족하여, 계속 힘을 낼 수 없습니다! !	법보 경험이 부족해 축경을 계속할 수 없다!!	
+1070	體力點數不夠!!	Insufficient vitality!!	체력 점수 부족! !	체력이 부족하다!!	
+1071	沒有護駕,不能融合!!	No escort available, unable to Merge!!	에스코트가 없으면 융합할 수 없습니다! !	호가가 없어 융합할 수 없다!!	
+1072	已融合過,不能再選!!	Already Merged, unable to be selected again!!	이미 융합되었습니다, 더 이상 선택할 수 없습니다! !	이미 융합해서 다시 고를 수 없다!!	
+1073	法寶經驗不足,無法融合!!	Insufficient magic weapon experience, unable to Merge!!	법보는 경험이 부족하여 융합할 수 없습니다! !	법보 경험이 부족해 융합할 수 없다!!	
+1074	誘餌	Bait	미끼	미끼	
+1075	煉妖	Spirit Fusion	요괴를 만들다	연요	
+1076	符鬼	Rune Ghost	부적귀신	부귀	
+1077	釋放	Release	석방	방출	
+1078	金	Metal	금	금	
+1079	木	Wood	우드	목	
+1080	水	Water	물	수	
+1081	火	Fire	불	화	
+1082	土	Earth	토	토	
+1092	繼續	Continue	계속	계속	
+1093	放勁	Release charge	힘빼기	방경	
+1094	無	none	없음	없음	
+1095	佈置護駕	Decorate escort	호위병 배치	호가 배치	
+1096	護駕融合	Merge escort	호위병 통합	호가 융합	
+1097	生命:%d/%d	Life: %d/%d	생명:%d/%d	생명:%d/%d	
+1098	特殊%d	Special%d	특수% d	특수%d	
+1099	戰鬥勝利	Battle victory	전투 승리	전투 승리	
+1100	每人得到經驗值:%d	Party experience points obtained: %d	개인별 경험치:%d	1인당 경험치 획득: %d	
+1101	得到銀兩:%d	Gold obtained: %d	은냥받기:%d	은화 획득: %d	
+1102	得到法寶經驗值:%d	Magic weapon experience points obtained: %d	마법 경험치 획득:%d	법보 경험치 획득: %d	
+1103	升級	Level up	업그레이드	레벨 업	
+1104	%s升第%d級	%s's level up to %d.	%s에서%d 등급으로 업그레이드	%s %d레벨 달성	
+1105	生命力:	health:	생명력:	생명력:	
+1106	魔法力:	Mana points:	마법력:	마법력:	
+1107	體　力:	Vitality:	체력:	체　력:	
+1108	力　量:	Strength:	힘:	힘　　:	
+1109	耐　力:	Stamina:	지구력:	지구력:	
+1110	智　慧:	Intelligence:	지혜:	지　혜:	
+1111	敏　捷:	Agility:	민첩:	민　첩:	
+1112	%s學到新魔法	%s New magic learnt	%s 새로운 마법 배우기	%s 새 마법 습득	
+1113	%s學到新絕招	%s New Ultimate learnt	%s 새로운 묘수 배우기	%s 새 필살기 습득	
+1114	法寶[%s]已完全成長!!	Magic weapon [%s] has reached max level!!	마법[%s]이(가) 완전히 성장했습니다! !	법보[%s]이(가) 완전히 성장했다!!	
+1115	法寶[%s]轉化為[%s]!!	Magic weapon [%s] has transformed into [%s]!!	마법의 무기[%s]가 [%s]로 변환되었습니다! !	법보[%s]이(가) [%s](으)로 변했다!!	
+1116	法寶	Magic weapon	마법의 무기	법보	
+1117	轉化為	Transformed into	변환	변화 결과	
+1118	戰利品	Spoil	전리품	전리품	
+1119	逃跑	Escape	뺑소니	도주	
+1120	主角逃跑成功!!	Protagonist escaped successfully!!	주인공 도망 성공! !	주인공 도주 성공!!	
+1121	戰鬥失敗	Battle failed	전투 패배	전투 패배	
+1122	隊伍全滅!!	Team eliminated!	팀 전멸! !	파티 전멸!!	
+1123	煉符成功	Figuring successful	연산자 성공	연부 성공	
+1124	得到符咒:%s	Talisman obtained: %s	획득 부적:%s	부적 획득: %s	
+1125	煉符失敗	Figuring failed	연산자 실패	연부 실패	
+1126	沒有得到東西	Nothing obtained	물건을 얻지 못했다.	얻은 것이 없다	
+1127	攻:	Attack:	공격:	공:	
+1128	防:	Defense:	방호:	방:	
+1129	敏:	Agility:	민:	민:	
+1130	攻	Attack	공	공	
+1131	防	Defense	방어	방	
+1132	敏	Agility	민	민	
+1133	按鈕個數不對!!	Wrong number of buttons!!	버튼 개수가 잘못되었습니다! !	버튼 개수 오류!!	
+1142	Npc角色actNumber為0!!	Npc Character actNumber is 0!!	Npc 캐릭터 actNumber 0! !	Npc 캐릭터 actNumber가 0!!	
+1143	符鬼actNumber為0!!	Rune Ghost actNumber is 0!!	부적귀 액트넘버 0! !	부귀 actNumber가 0!!	
+1144	武器%d號的強攻擊act沒設!!	Weapon %d Strong attack act has not been set!!	무기%d호의 강습 act가 설정되지 않았습니다! !	무기 %d번 강공격 act 미설정!!	
+1145	[%s]QQ:%d號錯誤!!	[%s]QQ: Number%derror!!	[%s]QQ:%d번 오류! !	[%s]QQ:%d번 오류!!	
+1146	的數量不夠!!	Insufficient quantity!!	의 수량이 부족합니다! !	수량이 부족하다!!	
+1147	靈力值不夠!!	Insufficient spiritual power!!	영력치가 부족하다! !	영력이 부족하다!!	
+1148	體力值不夠!!	Insufficient  Vitality!!	체력 안 돼! !	체력이 부족하다!!	
+1149	%s逃跑失敗!!	%s Escape failed!!	%s 도망 실패! !	%s 도주 실패!!	
+1150	第%d號怪物的資料有錯!!	Information of monster number %d is wrong!!	몬스터 %d번 자료가 틀렸습니다! !	%d번 괴물 데이터 오류!!	
+1151	第%d號攻擊資料表有錯!!	Data table of Attack number %d is wrong!!	%d번 공격 자료표가 잘못되었습니다! !	%d번 공격 데이터표 오류!!	
+1152	第%d號物品的資料有錯!!	Information of item number %d is wrong!!	%d번 물품의 자료가 잘못되었습니다! !	%d번 아이템 데이터 오류!!	
+1154	升級魔法編號為0!!	Upgrade magic Code is 0!!	업그레이드 마법번호 0! !	성장 마법 번호가 0!!	
+1155	魔法編號為0!!	Magic Code is 0!!	매직넘버 0! !	마법 번호가 0!!	
+1156	圖形還原失敗	Graphic restore failed	그림 복원 실패	그래픽 복원 실패	
+1157	$1%s$0抵抗所有攻擊解除	$1%s$0Resist all Attack deactivated	$1% s$0 저항 모든 공격 해제	$1%s$0 모든 공격 저항 해제	
+1158	$1%s$0抵抗所有攻擊啟動	$1%s$0Resist all Attack activated	$1% s$0 모든 공격에 대항하여 작동함	$1%s$0 모든 공격 저항 발동	
+1159	$1%s$0增加50%%火系抗力	$1%s$0Increase Fire Resistance by 50%%	$1% s$0 증가 화기 항력 50% 증가	$1%s$0 화속성 저항 50%% 증가	
+1160	$1%s$0增加50%%水系抗力	$1%s$0Increase Water Resistance by 50%%	$1% s$0 증가 수계항력 50% 증가	$1%s$0 수속성 저항 50%% 증가	
+1161	$1%s$0增加50%%毒系抗力	$1%s$0Increase Poison Resistance by 50%%	$1% s$0 독소저항 50% 증가	$1%s$0 독속성 저항 50%% 증가	
+1162	$1%s$0增加50%%光系抗力	$1%s$0Increase Light Resistance by 50%%	$1% s$0 광계항력 50% 증가	$1%s$0 광속성 저항 50%% 증가	
+1163	$1%s$0增加50%%暗系抗力	$1%s$0Increase Dark Resistance by 50%%	$1% s$0 암저항 50% 증가	$1%s$0 암속성 저항 50%% 증가	
+1164	$1%s$0增加50%%物理抗力	$1%s$0Increase Physical Resistance by 50%%	$1% s$0 물리적 저항 50% 증가	$1%s$0 물리 저항 50%% 증가	
+1165	$1%s$0增加30%%攻擊力	$1%s$0Increase Attack by 30%%	$1% s$0 공격력 30% 증가	$1%s$0 공격력 30%% 증가	
+1166	$1%s$0增加30%%速度	$1%s$0Increase Speed by 30%%	$1%s$0 증가 속도 30%	$1%s$0 속도 30%% 증가	
+1167	$1%s$0增加30%%防禦力	$1%s$0Increase Defense by 30%%	$1% s$0 방어력 30% 증가	$1%s$0 방어력 30%% 증가	
+1168	$1%s$0隱形效果啟動	$1%s$0Stealth activated	$1% s$0 스텔스 효과 작동	$1%s$0 은신 효과 발동	
+1169	$1%s$0護罩效果啟動	$1%s$0Shield activated	$1% s$0 가드 효과 작동	$1%s$0 보호막 효과 발동	
+1170	$1%s$0降低攻擊力30%%	$1%s$0Decrease Attack by 30%%	$1% s$0 공격력 30% 감소	$1%s$0 공격력 30%% 감소	
+1171	$1%s$0降低速度30%%	$1%s$0Decrease Speed by 30%%	$1% s$0 속도 30% 감소	$1%s$0 속도 30%% 감소	
+1172	$1%s$0降低防禦力30%%	$1%s$0Decrease Defense by 30%%	$1% s$0 방어력 30% 감소	$1%s$0 방어력 30%% 감소	
+1173	?	?		?	
+1174	$1我方所有角色$0攻擊力$2上升	$1Party's $0Attack$2 increased	$1 우리측 모든 캐릭터 $0 공격력 $2 상승	$1아군 전체$0 공격력$2 상승	
+1175	$1敵方所有角色$0攻擊力$2上升	$1Enemies' $0Attack$2 increased	$1 적의 모든 캐릭터 $0 공격력 $2 상승	$1적 전체$0 공격력$2 상승	
+1176	$1%s$0攻擊力$2上升	$1%s$0Attack$2 increased	$1% s$0 공격력 $2 상승	$1%s$0 공격력$2 상승	
+1177	$1我方所有角色$0速度$2上升	$1Party's $0Speed$2 increased	$1 우리측 모든 캐릭터 $0 속도 $2 상승	$1아군 전체$0 속도$2 상승	
+1178	$1敵方所有角色$0速度$2上升	$1Enemies' $0Speed$2 increased	$1 적의 모든 캐릭터 $0 속도 $2 상승	$1적 전체$0 속도$2 상승	
+1179	$1%s$0速度$2上升	$1%s$0Speed$2 increased	$1% s$0 속도 $2 상승	$1%s$0 속도$2 상승	
+1180	$1我方所有角色$0防禦力$2上升	$1Party's $0Defense$2 increased	$1 우리측 모든 캐릭터 $0 방어력 $2 상승	$1아군 전체$0 방어력$2 상승	
+1181	$1敵方所有角色$0防禦力$2上升	$1Enemies' $0Defense$2 increased	$1 적의 모든 캐릭터 $0 방어력 $2 상승	$1적 전체$0 방어력$2 상승	
+1182	$1%s$0防禦力$2上升	$1%s$0Defense$2 increased	$1% s$0 방어력 $2 상승	$1%s$0 방어력$2 상승	
+1183	$1%s$0隱形效果啟動	$1%s$0Stealth activated	$1% s$0 스텔스 효과 작동	$1%s$0 은신 효과 발동	
+1184	$1%s$0護罩效果啟動	$1%s$0Shield activated	$1% s$0 가드 효과 작동	$1%s$0 보호막 효과 발동	
+1185	$1我方所有角色$0攻擊力$3下降	$1Party's $0Attack$3 decreased	$1 우리측 모든 캐릭터 $0 공격력 $3 하락	$1아군 전체$0 공격력$3 하락	
+1186	$1敵方所有角色$0攻擊力$3下降	$1Enemies' $0Attack$3 decreased	$1 적의 모든 캐릭터 $0 공격력 $3 하락	$1적 전체$0 공격력$3 하락	
+1187	$1%s$0攻擊力$3下降	$1%s$0Attack$3 decreased	$1% s$0 공격력 $3 감소	$1%s$0 공격력$3 하락	
+1188	$1我方所有角色$0速度$3下降	$1Party's $0Speed$3 decreased	$1 우리측 모든 캐릭터 $0 속도 $3 하락	$1아군 전체$0 속도$3 하락	
+1189	$1敵方所有角色$0速度$3下降	$1Enemies' $0Speed$3 decreased	$1 적의 모든 캐릭터 $0 속도 $3 하락	$1적 전체$0 속도$3 하락	
+1190	$1%s$0速度$3下降	$1%s$0Speed$3 decreased	$1% s$0 속도 $3 하락	$1%s$0 속도$3 하락	
+1191	$1我方所有角色$0防禦力$3下降	$1Party's $0Defense$3 decreased	$1 우리측 모든 캐릭터 $0 방어력 $3 하락	$1아군 전체$0 방어력$3 하락	
+1192	$1敵方所有角色$0防禦力$3下降	$1Enemies' $0Defense$3 decreased	$1 적의 모든 캐릭터 $0 방어력 $3 하락	$1적 전체$0 방어력$3 하락	
+1193	$1%s$0防禦力$3下降	$1%s$0Defense$3 decreased	$1% s$0 방어력 $3 하락	$1%s$0 방어력$3 하락	
+1194	$1%s$0強攻擊啟動	$1%s$0Strong attack activated	$1% s$0강 공격 개시	$1%s$0 강공격 발동	
+1195	$1%s$0傷害轉移啟動	$1%s$0Damage transfer activated	$1% s$0 상해 전이 개시	$1%s$0 피해 전이 발동	
+1196	$1%s$0增加火系攻擊效果解除	$1%s$0Fire Attack Buff deactivated	$1% s$0 화계 공격 효과 증가 해제	$1%s$0 화속성 공격 강화 해제	
+1197	$1%s$0增加冰系攻擊效果解除	$1%s$0Ice Attack Buff deactivated	$1%s$0 얼음 공격 효과 증가 해제	$1%s$0 빙속성 공격 강화 해제	
+1198	$1%s$0增加光系攻擊效果解除	$1%s$0Light Attack Buff deactivated	$1% s$0 광계 공격 효과 증가 해제	$1%s$0 광속성 공격 강화 해제	
+1199	$1%s$0增加暗系攻擊效果解除	$1%s$0Dark Attack Buff deactivated	$1%s$0 암암호 공격 효과 증가 해제	$1%s$0 암속성 공격 강화 해제	
+1200	?	?		?	
+1201	$1我方角色$0所有的輔助效果被消除了!!	All $1Party's$0 Buffs have been removed!!		$1아군$0의 모든 보조 효과가 사라졌다!!	
+1202	$1敵方角色$0所有的輔助效果被消除了!!	All $1Enemies'$0 Buffs have been removed!!		$1적$0의 모든 보조 효과가 사라졌다!!	
+1203	$1%s$0所有的輔助效果被消除了!!	$1%s$0All Buffs have been removed!!		$1%s$0의 모든 보조 효과가 사라졌다!!	
+1204	$1%s$0增加攻擊力效果解除	$1%s$0Attack Buff deactivated		$1%s$0 공격력 증가 효과 해제	
+1205	$1%s$0增加速度效果解除	$1%s$0Speed Buff deactivated		$1%s$0 속도 증가 효과 해제	
+1206	$1%s$0增加防禦力效果解除	$1%s$0Defense Buff deactivated		$1%s$0 방어력 증가 효과 해제	
+1207	$1%s$0隱形效果解除	$1%s$0Stealth deactivated		$1%s$0 은신 효과 해제	
+1208	$1%s$0降低攻擊力效果解除	$1%s$0Attack Debuff deactivated		$1%s$0 공격력 감소 효과 해제	
+1209	$1%s$0降低速度效果解除	$1%s$0Speed Debuff deactivated		$1%s$0 속도 감소 효과 해제	
+1210	$1%s$0降低防禦力效果解除	$1%s$0Defense Debuff deactivated		$1%s$0 방어력 감소 효과 해제	
+1211	$1%s$0護罩效果解除	$1%s$0Shield deactivated		$1%s$0 보호막 효과 해제	
+1212	$1%s$0強攻擊效果解除	$1%s$0Strong Attack Buff deactivated		$1%s$0 강공격 효과 해제	
+1213	$1%s$0傷害轉移效果解除	$1%s$0Damage Transfer deactivated		$1%s$0 피해 전이 효과 해제	
+1214	$1%s$0抵抗火系效果解除	$1%s$0Fire Resistance deactivated		$1%s$0 화속성 저항 해제	
+1215	$1%s$0抵抗冰系效果解除	$1%s$0Ice Resistance deactivated		$1%s$0 빙속성 저항 해제	
+1216	$1%s$0抵抗風系效果解除	$1%s$0Wind Resistance deactivated		$1%s$0 풍속성 저항 해제	
+1217	$1%s$0抵抗土系效果解除	$1%s$0Earth Resistance deactivated		$1%s$0 토속성 저항 해제	
+1218	$1%s$0抵抗毒系效果解除	$1%s$0Poison Resistance deactivated		$1%s$0 독속성 저항 해제	
+1219	$1%s$0抵抗光系效果解除	$1%s$0Light Resistance deactivated		$1%s$0 광속성 저항 해제	
+1220	$1%s$0抵抗暗系效果解除	$1%s$0Dark Resistance deactivated		$1%s$0 암속성 저항 해제	
+1221	$1%s$0抵抗電系效果解除	$1%s$0Electric Resistance deactivated		$1%s$0 전속성 저항 해제	
+1222	$1%s$0抵抗物理系效果解除	$1%s$0Physical Resistance deactivated		$1%s$0 물리 저항 해제	
+1223	?	?		?	
+1224	$1%s$0偷走了%d銀兩	$1%s$0Stole %d Gold		$1%s$0이(가) 은화 %d닢을 훔쳤다	
+1225	啟動快速模式	Activate speed-up mode		빠른 모드 켜기	
+1226	關閉快速模式	Deactivate speed-up mode		빠른 모드 끄기	
+1227	阻擋可通過	Can pass obstacle		장애물 통과 가능	
+1228	阻擋不可通過	Cannot pass obstacle		장애물 통과 불가	
+1229	切換移動速度	Toggle movement speed		이동 속도 전환	
+1232	錯誤的劇情點	Wrong story line		잘못된 스토리 지점	
+1233	變數不合法(%d)(%d)\r\n	Invalid variable(%d)(%d)\r\n		변수 오류(%d)(%d)\r\n	
+1234	數值不合法(%d)(%d)\r\n	Invalid numerical value(%d)(%d)\r\n		수치 오류(%d)(%d)\r\n	
+1236	路徑系統	Path system		경로 시스템	
+1237	無效的指令\r\nGUID(%d)-(%d)	Invalid command\r\nGUID(%d)-(%d)		잘못된 명령\r\nGUID(%d)-(%d)	
+1238	路徑系統(piSetpos)	Path system(piSetpos)		경로 시스템(piSetpos)	
+1239	路徑終點超出範圍 >> P(%d) RId(%d) Start(%d/%d) Dest(%d/%d)	End of Path exceeds permissible range >> P(%d) RId(%d) Start(%d/%d) Dest(%d/%d)		경로 종점이 범위를 벗어남 >> P(%d) RId(%d) Start(%d/%d) Dest(%d/%d)	
+1240	路徑無法產生 >> P(%d) GUID(%d) Start(%d/%d) Dest(%d/%d)	Unable to generate Path >> P(%d) GUID(%d) Start(%d/%d) Dest(%d/%d)		경로를 만들 수 없음 >> P(%d) GUID(%d) Start(%d/%d) Dest(%d/%d)	
+1241	路徑	Path		경로	
+1242	路徑沒有設定 >> GUID(%d)\r\n ACT (%d)\r\nQQ (%d)\r\nPATH (%d)	Path not set >> GUID(%d)\r\n ACT (%d)\r\nQQ (%d)\r\nPATH (%d)		경로 미설정 >> GUID(%d)\r\n ACT (%d)\r\nQQ (%d)\r\nPATH (%d)	
+1243	夥伴紀錄中找不到角色(%d)	No such Character in Companion records(%d)		동료 기록에 캐릭터 없음(%d)	
+1244	載入道具	Load prop		도구 불러오기	
+1245	位置(%d)裝備了沒有定義的物品號碼(%d)	Position(%d)has equipped undefined item number(%d)		위치(%d)에 정의되지 않은 아이템 번호(%d) 장착	
+1246	載入法術	Load Spell		법술 불러오기	
+1247	角色(%d)擁有未定義的法術(%d)	Character(%d) has undefined spell(%d)		캐릭터(%d)가 정의되지 않은 법술(%d) 보유	
+1248	%d級	Level%d		%d레벨	
+1249	沒有存檔資訊	No save information		저장 정보 없음	
+1250	要覆蓋嗎?	Override?		덮어쓰겠습니까?	
+1251	　是　否	　Yes　No		　예　아니요	
+1252	%02d時	%02dH/		%02d시	
+1253	%02d分	%02dM/		%02d분	
+1254	%02d秒	%02dS		%02d초	
+1266	武器	Weapon		무기	
+1270	劇情	Story line		스토리	
+1274	請按一個鍵	Please press a button		키를 하나 누르세요	
+1278	設定錯誤的對話框(act:%d)	Wrong dialogue frame set(act:%d)		잘못된 대화창 설정(act:%d)	
+1286	遊戲初始	Game start		게임 초기화	
+1287	找不到設定的起始地圖碼 (%d)	Start map number set not found (%d)		설정된 시작 지도 번호를 찾을 수 없음 (%d)	
+1292	讀取路人	Read NPC		행인 불러오기	
+1293	重複定義角色(%d)	Repeat defined Character(%d)		캐릭터 중복 정의(%d)	
+1294	地圖(%d)啟動對話(%d)\r\n路人(%d)位置超出地圖\r\n地圖(%d,%d)\r\n路人(%d,%d)	Map(%d)Activate dialogue(%d)\r\nNPC(%d)Position exceeds Map\r\nMap(%d,%d)\r\nNPC(%d,%d)		지도(%d) 대화 시작(%d)\r\n행인(%d) 위치가 지도를 벗어남\r\n지도(%d,%d)\r\n행인(%d,%d)	
+1295	地圖(%d)定義煙囪物件數量超過四個	Map(%d)Defined funnel objects exceed four		지도(%d)에 정의된 굴뚝 오브젝트가 넷을 넘음	
+1296	角色回寫	Character writeback		캐릭터 되쓰기	
+1297	角色(%d)\r\n終點位置(%d,%d)\r\n不在地圖(%d,%d)內	Character(%d)\r\nEnd position(%d,%d)\r\nNot on Map(%d,%d)		캐릭터(%d)\r\n종점 위치(%d,%d)\r\n지도(%d,%d) 안에 없음	
+1298	!!! 警告 !!!	!!! Warning !!!		!!! 경고 !!!	
+1299	角色編號(%d)\r\n資料歸鍵時\r\n找不到符合的位置\r\n可能是定義錯誤或是角色不存在了	Character code(%d)\r\nWhen data is keyed\r\nMatching position not found\r\nDefined error or Character may no longer exist		캐릭터 번호(%d)\r\n데이터 반환 시\r\n맞는 위치를 찾을 수 없음\r\n정의 오류이거나 캐릭터가 없어졌을 수 있음	
+1300	未定義角色[%d]	Undefined Character[%d]		정의되지 않은 캐릭터[%d]	
+1301	解除夥伴	Deactivate Companion		동료 해제	
+1302	角色(%d)不是夥伴	Character(%d) is not Companion		캐릭터(%d)는 동료가 아님	
+1303	角色(%d)不存在	Character(%d) does not exist		캐릭터(%d) 없음	
+1304	戰鬥機率讀取	Read battle chance		전투 확률 불러오기	
+1305	設定數質量必須是 8 的倍數	Quality count set must be in multiples of 8		설정 수량은 8의 배수여야 함	
+1306	太長,%s	Too long,%s		너무 김,%s	
+1307	對話系統(TalkEnd)	Dialogue system(TalkEnd)		대화 시스템(TalkEnd)	
+1308	GUID(%d)\r\n陣列索引錯誤(crID %d) (manMax %d)	GUID(%d)\r\nArray index error(crID %d) (manMax %d)		GUID(%d)\r\n배열 색인 오류(crID %d) (manMax %d)	
+1309	生命	Life		생명	
+1311	體力	Vitality		체력	
+1312	大生命	Greater Life		대생명	
+1313	大魔法	Greater Mana		대마법	
+1314	大體力	Greater Vitality		대체력	
+1315	力量	Strength		힘	
+1316	耐力	Stamina		지구력	
+1317	智慧	Intelligence		지혜	
+1318	敏捷	Speed		민첩	
+1319	默契	Affinity		호감도	
+1320	反應力	Reaction		반응력	
+1321	運氣	Luck		운	
+1322	閃躲	Dodge		회피	
+1323	經驗	Experience		경험	
+1324	總經驗	Total Experience		총경험	
+1325	等級	Level		레벨	
+1329	物品刪除發生錯誤	Item deletion error		아이템 삭제 오류	
+1330	物品插入發生錯誤	Item insertion error		아이템 삽입 오류	
+1348	!!! 注意 !!!	!!! Attention !!!		!!! 주의 !!!	
+1349	遊戲過程中,磁碟空間不足\r\n請確認至少剩餘 %dM磁碟空間.	Insufficient disk space while running the game\r\nPlease confirm that there is at least %dM of disk space remaining.		게임 진행 중 디스크 공간 부족\r\n최소 %dM 이상 남아 있는지 확인하세요.	
+1350	護駕召喚中!!	Summoning the escort!!		호가 소환 중!!	
+1374	找不到 Talk%d	Not found Talk%d		Talk%d 없음	
+1375	不是從劇情點啟動 !不要用R_TRIG!	Not activated from Story line! Do not use R_TRIG!		스토리 지점에서 시작되지 않음! R_TRIG를 쓰지 마라!	
+1376	無效的角色\r\nGUID[%d]	Invalid Character\r\nGUID[%d]		잘못된 캐릭터\r\nGUID[%d]	
+1377	角色號碼(GUID:%d)不存在此地圖(%d)	Character number(GUID:%d) Map does not exist(%d)		캐릭터 번호(GUID:%d)가 이 지도(%d)에 없음	
+1378	無效的角色\r\nGUID %d	Invalid Character\r\nGUID %d		잘못된 캐릭터\r\nGUID %d	
+1379	對話系統	Dialogue system		대화 시스템	
+1380	對話系統(BTN_JUMP)	Dialogue system(BTN_JUMP)		대화 시스템(BTN_JUMP)	
+1381	GUID(%d) 輸入值(%d)大於分支數量	GUID(%d) Input value(%d) is greater than subfield		GUID(%d) 입력값(%d)이 분기 수보다 큼	
+1382	對話系統(Chanmg_act)	Dialogue system(Chanmg_act)		대화 시스템(Chanmg_act)	
+1383	請設定正確的圖列碼GUID(%d)act(%d)	Please set the correct image numberGUID(%d)act(%d)		올바른 그림 번호를 설정하세요 GUID(%d)act(%d)	
+1384	對話系統(Scroll_map)	Dialogue system(Scroll_map)		대화 시스템(Scroll_map)	
+1385	前一個捲動指令還沒有結束	Previous scroll command has not ended		이전 스크롤 명령이 끝나지 않음	
+1386	捲動間距請設為二的次方倍(X..%d)	Please set scrolling space to a power of two(X..%d)		스크롤 간격은 2의 거듭제곱으로(X..%d)	
+1387	捲動間距請設為二的次方倍(Y..%d)	Please set scrolling space to a power of two(Y..%d)		스크롤 간격은 2의 거듭제곱으로(Y..%d)	
+1388	捲動將超出螢幕範圍\r\n(捲動值) L%d.T%d.R%d.B%d\r\n(目前螢幕位置) L%d.T%d.R%d.B%d	Scrolling exceeds screen range\r\n(Scroll value) L%d.T%d.R%d.B%d\r\n(Current screen position) L%d.T%d.R%d.B%d		스크롤이 화면 범위를 벗어남\r\n(스크롤값) L%d.T%d.R%d.B%d\r\n(현재 화면 위치) L%d.T%d.R%d.B%d	
+1390	對話系統(Shack_screen)	Dialogue system(Shack_screen)		대화 시스템(Shack_screen)	
+1391	參數太長	Parameter is too long		인자가 너무 김	
+1392	代碼值太大	Code value too big		코드값이 너무 큼	
+1393	位置超出螢幕	Position exceeds screen		위치가 화면을 벗어남	
+1395	對話系統(Play_avi) ,過期的指令	Dialogue system(Play_avi) , expired command		대화 시스템(Play_avi), 폐기된 명령	
+1396	設定的變數(%d)和系統衝突	Set variable(%d) conflicts with the system		설정 변수(%d)가 시스템과 충돌	
+1397	對話系統(Caption2)	Dialogue system(Caption2)		대화 시스템(Caption2)	
+1398	設定的變數(0)和系統衝突	Set variable(0) conflicts with the system		설정 변수(0)가 시스템과 충돌	
+1399	對話系統(Addd_FMan)	Dialogue system(Addd_FMan)		대화 시스템(Addd_FMan)	
+1400	人物號碼不對	Wrong Character number		인물 번호 오류	
+1401	指定的張數(%d) 超過act容量(%d)	Number of sheets set(%d) exceeds actcapacity(%d)		지정한 장수(%d)가 act 용량(%d) 초과	
+1402	不存在地圖上的角色(GUID:%d)	Character does not exist on the Map(GUID:%d)		지도 위에 없는 캐릭터(GUID:%d)	
+1403	找不到地圖音樂定義\r\n[%d,%d,%d,%d]	Defined map music not found\r\n[%d,%d,%d,%d]		지도 음악 정의를 찾을 수 없음\r\n[%d,%d,%d,%d]	
+1404	對話系統(Mag_Learn)	Dialogue system(Mag_Learn)		대화 시스템(Mag_Learn)	
+1405	角色序號超過四(%d)	Character serial number exceeds four(%d)		캐릭터 순번이 넷 초과(%d)	
+1406	角色(%d)\r\n不應該學到這種法術%s	Character(%d)\r\nshouldn't be able to learn this spell%s		캐릭터(%d)\r\n이 법술%s을(를) 배울 수 없음	
+1407	角色序號或部位超過有效範圍\r\nrs(%d) bp(%d)	Character serial number or position exceeds valid range\r\nrs(%d) bp(%d)		캐릭터 순번 또는 부위가 유효 범위 초과\r\nrs(%d) bp(%d)	
+1408	對話系統(Equip)	Dialogue system(Equip)		대화 시스템(Equip)	
+1409	隊伍沒有物品(%d)	Party has no item(%d)		파티에 아이템 없음(%d)	
+1410	對話系統(Healing)	Dialogue system(Healing)		대화 시스템(Healing)	
+1411	角色序號[%d]超過有效範圍 4.	Character serial number [%d] exceeds valid range 4.		캐릭터 순번[%d]이 유효 범위 4 초과.	
+1412	對話系統(DISTANCE)	Dialogue system(DISTANCE)		대화 시스템(DISTANCE)	
+1413	GUID(%d)\r\n不在地圖上	GUID(%d)\r\nNot on Map		GUID(%d)\r\n지도 위에 없음	
+1414	(Sar_**)角色()不在地圖上	(Sar_**)Character () Not on Map		(Sar_**)캐릭터()가 지도 위에 없음	
+1415	對話系統(attb)	Dialogue system(attb)		대화 시스템(attb)	
+1416	屬性代號不合法(%d)\r\n	Invalid attribute code(%d)\r\n		잘못된 속성 코드(%d)\r\n	
+1417	找不到角色 %d	Character not found %d		캐릭터 %d 없음	
+1418	找不到角色 %d(1)	Character not found %d(1)		캐릭터 %d 없음(1)	
+1419	找不到角色 %d(2)	Character not found %d(2)		캐릭터 %d 없음(2)	
+1420	數值太大(%d) 沒有定義 %d	Numerical value too big(%d) Undefined %d		수치가 너무 큼(%d) 정의 없음 %d	
+1421	對話系統(DISTANCE_role)	Dialogue system(DISTANCE_role)		대화 시스템(DISTANCE_role)	
+1422	對話系統(NAME_BOX)	Dialogue system(NAME_BOX)		대화 시스템(NAME_BOX)	
+1423	號碼超過範圍	Number exceeds range		번호 범위 초과	
+1424	G(%d)啟動的角色不在地圖上(%d)	G(%d)Activated Character Not on Map(%d)		G(%d)에서 시작한 캐릭터가 지도 위에 없음(%d)	
+1425	沒有指令(%d,%x),(%d,%x)	No Command(%d,%x), (%d,%x)		명령 없음(%d,%x),(%d,%x)	
+1426	對話系統(unlock)	Dialogue system(unlock)		대화 시스템(unlock)	
+1427	路徑無法還原 >> RId(%d)\r\n Start(%d/%d) Dest(%d/%d)	Unable to revert Path >> RId(%d)\r\n Start(%d/%d) Dest(%d/%d)		경로를 복원할 수 없음 >> RId(%d)\r\n Start(%d/%d) Dest(%d/%d)	
+1428	警告:對話系統(isetpos:mode0)	Warning: Dialogue system(isetpos:mode0)		경고:대화 시스템(isetpos:mode0)	
+1429	GUID(%d) 找不到可以使用的路徑\r\n角色將會直接移到目的地	GUID(%d) Usable Path not found\r\nCharacter will move directly to destination		GUID(%d) 쓸 수 있는 경로가 없음\r\n캐릭터가 목적지로 바로 이동함	
+1430	對話系統(isetpos)	Dialogue system(isetpos)		대화 시스템(isetpos)	
+1431	路徑無法產生 >> P(%d) crId(%d)\r\n Start(%d/%d) Dest(%d/%d)	Unable to generate Path >> P(%d) crId(%d)\r\n Start(%d/%d) Dest(%d/%d)		경로를 만들 수 없음 >> P(%d) crId(%d)\r\n Start(%d/%d) Dest(%d/%d)	
+1432	對話系統(iMove)	Dialogue system(iMove)		대화 시스템(iMove)	
+1433	沒有到達終點\r\nGUID(%d)\r\nrx%d,ry%d\r\ndx%d,dy%d	End not reached\r\nGUID(%d)\r\nrx%d,ry%d\r\ndx%d,dy%d		종점에 도달하지 못함\r\nGUID(%d)\r\nrx%d,ry%d\r\ndx%d,dy%d	
+1435	檔案開啟	Open file		파일 열기	
+1436	沒事	I'm fine		괜찮음	
+1437	好奇	Curious		궁금함	
+1438	想外出	Want to go out		나가고 싶음	
+1439	想玩	Want to play		놀고 싶음	
+1440	想睡	Want to sleep		졸림	
+1441	驚醒	Roused		깜짝 깸	
+1442	出走	Leave home		가출	
+1443	睡覺	Sleep		잠자기	
+1444	散心	Take a stroll		산책	
+1445	遊戲	Play games		놀이	
+1446	安撫	Pacify		달래기	
+1447	管教	Discipline		훈육	
+1448	種類設定錯誤	Type setting error		종류 설정 오류	
+1449	狀態設定錯誤	Status setting error		상태 설정 오류	
+1450	睡覺中 玩家熄燈	While sleeping, player turns off the lights		잠자는 중 플레이어가 불을 끔	
+1451	睡覺中 自行睡著	While sleeping, fall asleep on your own		잠자는 중 스스로 잠듦	
+1452	散心中	Strolling		산책 중	
+1453	遊戲一	Game one		놀이 1	
+1454	遊戲二	Game two		놀이 2	
+1455	安撫中	Pacifying		달래는 중	
+1456	管教中	Disciplining		훈육 중	
+1457	金符鬼	Metal Rune Ghost		금 부귀	
+1458	木符鬼	Wood Rune Ghost		목 부귀	
+1459	水符鬼	Water Rune Ghost		수 부귀	
+1460	火符鬼	Fire Rune Ghost		화 부귀	
+1461	土符鬼	Earth Rune Ghost		토 부귀	
+1469	級	Level		레벨	
+1471	屬性	Attribute		속성	
+1472	力量　　%d	Strength　　%d		힘　　　%d	
+1473	耐力　　%d	Stamina　　%d		지구력　%d	
+1474	智慧　　%d	Intelligence　　%d		지혜　　%d	
+1475	敏捷　　%d	Agility　　%d		민첩　　%d	
+1476	下一級　%d	Next level　%d		다음 레벨 %d	
+1477	經驗值　%d	Experience　%d		경험치　%d	
+1478	[金]　%d%%	[Metal]　%d%%		[금]　%d%%	
+1479	[木]　%d%%	[Wood]　%d%%		[목]　%d%%	
+1480	[水]　%d%%	[Water]　%d%%		[수]　%d%%	
+1481	[火]　%d%%	[Fire]　%d%%		[화]　%d%%	
+1482	[土]　%d%%	[Earth]　%d%%		[토]　%d%%	
+1484	力量　 %d	Strength　 %d		힘　　 %d	
+1485	靈力　 %d	Spiritual Power　 %d		영력　 %d	
+1486	精魄　 %d	Soul　 %d		정백　 %d	
+1487	智慧　 %d	Intelligence　 %d		지혜　 %d	
+1488	敏捷　 %d	Agility　 %d		민첩　 %d	
+1489	悟性　 %d	Perception　 %d		오성　 %d	
+1490	平衡	Balance		균형	
+1495	沒有定義物品號碼(%d)	Undefined item number(%d)		정의되지 않은 아이템 번호(%d)	
+1504	靈力	Spiritual Power		영력	
+1505	敏捷	Agility		민첩	
+1509	目前無法使用	Currently unavailable		지금은 사용할 수 없음	
+1510	級	Level		레벨	
+1511	無法練化	Unable to refine		연화할 수 없음	
+1512	請將兩個欄位選擇物品	Please select items in the two fields		두 칸에 아이템을 고르세요	
+1520	等級不足 無法訂契約	Insufficient level, unable to make contract		레벨 부족, 계약할 수 없음	
+1521	頭部	Head		머리	
+1522	身體	Body		몸통	
+1523	手部	Arms		손	
+1532	裝備道具歸還	Return equipment and prop		장비 아이템 반환	
+1533	卸下了種類不符的裝備(%d)	Unequipped incompatible equipment(%d)		종류가 맞지 않는 장비 해제(%d)	
+1534	沒有物品	No item		아이템 없음	
+1535	損	Damage		피	
+1536	抗	Resist		저	
+1537	吸	Absorb		흡	
+1538	無法空手戰鬥	Unable to fight empty-handed		맨손으로는 싸울 수 없다	
+1539	攻擊	Attack		공격력	
+1540	防禦	Defense		방어력	
+1541	敏捷	Agility		민첩	
+1542	熟練	Proficiency		숙련	
+1543	成長	Growth		성장	
+1544	辨識	Appraisal		감정	
+1545	足部	Legs		발	
+1546	飾品	Accessories		장신구	
+1547	護駕	Escort		호가	
+1548	太飽了 無法餵食	Too full, unable to feed		배가 너무 불러 먹일 수 없다	
+1549	屬性不合 無法餵食	Attributes do not match, unable to feed		속성이 맞지 않아 먹일 수 없다	
+1550	直接餵食	Direct feeding		바로 먹이기	
+1551	回復	Reply		회복	
+1552	治療	Heal		치료	
+1553	增強	Enhance		강화	
+1554	法術使用	Spell usage		법술 사용	
+1555	(%d)沒有atktype(%d)	(%d)Noatktype(%d)		(%d) atktype(%d) 없음	
+1559	目前無法使用	Currently unavailable		지금은 사용할 수 없음	
+1560	靈界指標問題	Spirit world indicator problem		영계 표지 문제	
+1561	Maps找不到這個指標 [%d] [角色號碼找不到 %d]	MapsIndicator not found [%d] [Character number not found %d]		Maps에서 이 표지를 찾을 수 없음 [%d] [캐릭터 번호 없음 %d]	
+1562	使用	Use		사용	
+1563	整理	Sort		정리	
+1564	丟棄	Discard		버리기	
+1565	是否丟棄？	Are you sure you want to discard?		버리겠습니까?	
+1566	使用中 要回收嗎?	Currently in use. Recover?		사용 중. 회수하겠습니까?	
+1567	閒置中 要使用嗎?	Currently idling. Use?		대기 중. 사용하겠습니까?	
+1568	確定　放棄	Okay　Give up		확인　취소	
+1569	!警告! 物[%d] 種[%x]錯誤	! Warning! Item[%d] Type[%x] Error		!경고! 물[%d] 종[%x] 오류	
+1570	音效	Sound		효과음	
+1571	音樂	Music		음악	
+1572	置換空間	Replacement space		교체 공간	
+1573	地圖效果	Map effects		지도 효과	
+1574	文字速度	Text speed		글자 속도	
+1575	儲存空間不足！	Insufficient storage space!		저장 공간이 부족합니다!	
+1576	遊戲效果 %s	Game effects %s		게임 효과 %s	
+1577	開	On		켜기	
+1578	關	Off		끄기	
+1579	最快	Fastest		최고속	
+1580	快	Fast		빠름	
+1581	適中	Medium		보통	
+1582	稍慢	Slow		느림	
+1583	慢	Slowest		최저속	
+1584	雲和山的彼端	Mists Beyond the Mountains		구름과 산의 저편	
+1585	等級	Level		레벨	
+1586	角色[%d] 等級不正確[%d]	Character[%d] Incorrect level[%d]		캐릭터[%d] 레벨 오류[%d]	
+1587	經驗	EXP		경험	
+1588	升級	Upgrade		레벨 업	
+1589	力量	Strength		힘	
+1590	耐力	Stamina		지구력	
+1591	智慧	Intelligence		지혜	
+1592	敏捷	Agility		민첩	
+1593	屬性	Attribute		속성	
+1594	暗	Dark		암	
+1595	風	Wind		풍	
+1596	光	Light		광	
+1597	抗力	Resistance		저항	
+1598	冰	Ice		빙	
+1599	毒	Poison		독	
+1600	電	Electric		전	
+1601	物	Item		물리	
+1602	上	Up		위	
+1603	下	Down		아래	
+1604	左	Left		왼쪽	
+1605	右	Right		오른쪽	
+1606	進入介面	Enter menu		메뉴 열기	
+1607	確定	Okay		확인	
+1608	取消	Cancel		취소	
+1609	放棄	Give up		포기	
+1610	切換一	Toggle one		전환 1	
+1611	切換二	Toggle two		전환 2	
+1612	說明文	Description		설명	
+1613	上一頁	Previous page		이전 쪽	
+1614	下一頁	Next page		다음 쪽	
+1615	跑步	Run		달리기	
+1616	存檔	Save		저장	
+1617	讀取	Read		불러오기	
+1618	記載	Record		기록	
+1619	設定	Settings		설정	
+1620	離開	Leave		나가기	
+1621	目前無法存檔	Currently unable to save		지금은 저장할 수 없습니다	
+1622	按鍵設定	Key Settings		키 설정	
+1623	結束遊戲	End game		게임 종료	
+1624	回主選單	Return to main menu		메인 메뉴로	
+1625	目前進度將會消失	Current progress will disappear.		현재 진행 상황이 사라집니다	
+1626	 確定要結束嗎?	 Are you sure you want to exit?		 정말 종료하겠습니까?	
+1627	 要重新開始嗎?	 Do you wish to restart?		 처음부터 다시 하겠습니까?	
+1628	 設定 放棄 恢復預設值	Settings Give up Restore default values		 설정 취소 기본값 복원	
+1629	增加道具	Increase props		아이템 추가	
+1630	商店存貨設定	Store inventory settings		상점 재고 설정	
+1631	物品入庫發生錯誤	Item storage error		아이템 입고 오류	
+1632	客倌，您要買東西還是賣東西？	Customer, do you wish to buy or sell?		손님, 물건을 사시겠어요, 파시겠어요?	
+1633	買	Buy		사기	
+1634	執行	Execute		실행	
+1635	購買	Buy		구매	
+1636	賣出	Sell		판매	
+1637	總價	Total price		합계	
+1638	總共是 %d 銀幣，要買嗎？	Total would be %d silver coins, buy?		모두 은화 %d닢입니다. 사시겠어요?	
+1639	總共是 %d 銀幣，要賣嗎？	Total would be %d silver coins, sell?		모두 은화 %d닢입니다. 파시겠어요?	
+1640	要馬上裝備嗎？	Do you want to equip it now?		바로 장착하시겠어요?	
+1641	 確定　放棄	 Okay　Cancel		 확인　취소	
+1642	錢帶多一點再來吧！	Come back with more Gold!		돈을 좀 더 가지고 오세요!	
+1643	賣	Sell		팔기	
+1646	ACT記憶體管理有誤!!	ACTMemory management error!!		ACT 메모리 관리 오류!!	
+1647	開始遊戲	Start game		게임 시작	
+1648	讀取進度	Reading progress		이어하기	
+1649	連線檢查最新版本內容	Connect and check for latest version		최신 버전 내용 확인	
+1651	無 (治療系)	No (Recovery spell)		없음 (치료 계열)	
+1652	存檔完成	Save complete		저장 완료	
+1653	靈契	Tame		영계약	
+1656	東方祭壇	Eastern Altar		동쪽 제단	
+1657	西方祭壇	Western Altar		서쪽 제단	
+1658	請選擇一個祭壇	Please select an altar.		제단을 하나 고르세요	
+1659	餘額	Balance		잔액	
+1701	$2%s$0使用了$3%s	$2%s$0 Used: $3%s		$2%s$0이(가) $3%s 사용	
+1702	$2%s$0施展了$3%s	$2%s$0 Performed: $3%s		$2%s$0이(가) $3%s 시전	
+1703	請選擇目標：	Please select target:		대상을 고르세요:	
+1704	絕招經驗	Ultimate EXP		필살기 경험	
+1705	請選擇目標	Please select target		대상을 고르세요	
+1709	(缺少)	(missing)		(없음)	
+1710	戰術	Tactics		전술	
+1711	$2煉符$0獲得：$3%s	$2Figuring$0 Obtained: $3%s		$2연부$0 획득: $3%s	
+1712	替換護駕	Replace Escort		호가 교체	
+1713	(必要)	(required)		(필수)	
+1714	缺少以下ssmod檔案：	Following ssmod files are missing:		다음 ssmod 파일이 없습니다:	
+1715	要讀取嗎？	Read?		불러오겠습니까?	
+1716	缺少必要的ssmod檔案，無法讀取。	Required ssmod files are missing, unable to read.		필수 ssmod 파일이 없어 불러올 수 없습니다.	
+1717	☐	☐		☐	
+1718	☑	☑		☑	
+1719	啟用	Enable		사용	
+1720	停用	Disable		사용 안 함	
+1721	⬆前移	⬆Move forward		⬆앞으로	
+1722	⬇後移	⬇Move backward		⬇뒤로	
+1723	移除	Remove		제거	
+1724	iCloud存檔同步	iCloudsynchronize save		iCloud 저장 동기화	
+1725	iCloud存檔同步(需要iOS7以上)	iCloudsynchronize save(Requires iOS7 and above)		iCloud 저장 동기화(iOS7 이상 필요)	
+1726	????	????		????	
+1727	是	Yes		예	
+1728	否	No		아니요	
+1731	速度	Speed		속도	
+1732	種族	Race		종족	
+1733	取消自動攻擊	Stop auto attack		자동 공격 취소	
+1734	視窗大小	Window size		화면 크기	
+1735	全螢幕	FullScreen		전체 화면	
+1736	重新開啟遊戲時生效	Takes effect when restarting the game		게임을 다시 실행하면 적용됩니다	
+1740	Mods	Mods		Mods	
+1741	硬體加速	Acceleration		하드웨어 가속	

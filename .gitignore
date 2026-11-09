@@ -1,0 +1,10 @@
+*.ssmod
+*.zip
+*.otf
+*.ttf
+*.pic
+translation/images/x/
+translation/images/ko/
+build*/
+backups/
+__pycache__/
