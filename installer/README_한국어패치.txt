@@ -1,4 +1,4 @@
-﻿헌원검3 운화산적피단 Xuan-Yuan Sword III: Mists Beyond the Mountains (Steam판) 한국어 패치 v1.2
+﻿헌원검3 운화산적피단 구름과 산의 저편 Xuan-Yuan Sword III: Mists Beyond the Mountains (Steam판) 한국어 패치 v1.2
 
 [설치]
 1. 이 압축 파일을 게임 폴더에 풉니다. (swd3.exe가 있는 폴더)
