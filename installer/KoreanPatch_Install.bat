@@ -1,9 +1,9 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-echo ==============================================
-echo  Xuan-Yuan Sword 3 (Steam) - Korean Patch v1.2
-echo ==============================================
+echo ===========================================================================
+echo  Xuan-Yuan Sword III: Mists Beyond the Mountains (Steam) - Korean Patch v1.2
+echo ===========================================================================
 if not exist "swd3.exe" (
   echo [ERROR] swd3.exe not found. Extract this zip into the game folder
   echo         ^(steamapps\common\SWD3^) and run again.

@@ -1,6 +1,6 @@
-# 헌원검 3: 구름과 산의 저편 (Steam) 한국어 패치
+# 헌원검3 운화산적피단 Xuan-Yuan Sword III: Mists Beyond the Mountains — 한국어 패치
 
-Xuan-Yuan Sword: Mists Beyond the Mountains (Steam, appid 1638230) 비공식 한국어 패치.
+헌원검3 운화산적피단(Xuan-Yuan Sword III: Mists Beyond the Mountains, Steam appid 1638230) 비공식 한국어 패치.
 중문 번체 원문 기준 번역.
 
 ## 받기
